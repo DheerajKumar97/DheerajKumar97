@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br><br><br>
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
-<html><font size="8"><b>My SkilL Set</b></font> 🔥</html>
+<html><font size="15"><b>My SkilL Set</b></font> 🔥</html>
 <br><br>
 
 <b>Technology</b>               : Data Analytics, Machine Learning
