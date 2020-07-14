@@ -53,13 +53,6 @@ Exposure                  : R, RStudio, PyCharm IDE, Microsoft Azure Cloud, Orac
  
 <html><font color="black" size="5"><b>How To Reach Me</b></font></html>
 
-<html>
-  <p><a href="https://www.linkedin.com/in/dheerajkumar1997/"><button type="button" class="btn-linkedin w3-blue"><i class="fa fa-linkedin left"></i></button></a>  
-  <a href="https://github.com/DheerajKumar97?tab=repositories"><button type="button" class="btn-github w3-white"><i class="fa fa-github left"></i></button></a>
-  <a href="https://wa.me/+919080883289"><button type="button" class="btn-whatsapp w3-green"><i class="fa fa-whatsapp my-float left"></i></button></a>
-  <a href="mailto:engineerdheeraj97@gmail.com? me@mysite.com&bcc=&subject=Hello%20Mr.Dheeraj Kumar K"><button type="button" class="btn btn-default btn-sm w3-red"><i class="fa fa-envelope"></i></button></a></p>
- </html>
-
 Linkedin         : https://www.linkedin.com/in/dheerajkumar1997/
 
 
