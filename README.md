@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/DheerajKumar97/DheerajKumar97/blob/master/cvr1.gif" height="400" width=1000>
+&nbsp;&nbsp;<img src="https://github.com/DheerajKumar97/DheerajKumar97/blob/master/cvr1.gif" height="400" width=900>
 
 <!--
 **DheerajKumar97/DheerajKumar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
