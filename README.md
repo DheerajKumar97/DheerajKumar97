@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt Text](https://github.com/DheerajKumar97/Drug-review-sentiment-Analysis--Flask-Deployment-Heroku/blob/master/DRA%20Snapshots/drug%20review.jpg)
+
 <!--
 **DheerajKumar97/DheerajKumar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
