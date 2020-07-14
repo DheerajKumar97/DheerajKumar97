@@ -54,7 +54,7 @@ My SkilL Set 🔥
 <br>
  
 <br><br>
-![Alt Text](https://github.com/DheerajKumar97/DheerajKumar97/blob/master/cvr1.gif)
+![Alt Text](https://github.com/DheerajKumar97/DheerajKumar97/blob/master/res%20gif.gif)
 
 <br><br>
 <html><font color="black" size="5"><b>How To Reach Me</b></font></html>
