@@ -34,23 +34,23 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 My SkilL Set 🔥
 
 
-Technology                : Data Analytics, Machine Learning
+<b>Technology</b>               : Data Analytics, Machine Learning
 <br>
-Programming               : Python, SQL, SAS 
+<b>Programming</b>               : Python, SQL, SAS 
 <br>
-Packages/Frameworks       : Numpy, Pandas, Scikitlearn, Statsmodels, Scipy, Imblearn, Word Cloud, Keras, NLTK
+<b>Packages/Frameworks </b>      : Numpy, Pandas, Scikitlearn, Statsmodels, Scipy, Imblearn, Word Cloud, Keras, NLTK
 <br>
-Visualization Libraries   : Matplotlib, Seaborn, Plotly 
+<b>Visualization Libraries</b>   : Matplotlib, Seaborn, Plotly 
 <br>
-Analytical Tools          : MS Excel, Tableau 
+<b>Analytical Tools </b>         : MS Excel, Tableau 
 <br>
-Software / IDE            : Jupyter Notebook, Spyder IDE, Sublime Text, My SQL Server, SAS Studio 
+<b>Software / IDE</b>            : Jupyter Notebook, Spyder IDE, Sublime Text, My SQL Server, SAS Studio 
 <br>
-Deployment Frameworks     : Flask, Streamlit 
+<b>Deployment Frameworks</b>     : Flask, Streamlit 
 <br>
-Cloud Platforms           : Heroku Cloud Platform 
+<b>Cloud Platforms</b>           : Heroku Cloud Platform 
 <br>
-Exposure                  : R, RStudio, PyCharm IDE, Microsoft Azure Cloud, Oracle 
+<b>Exposure </b>                 : R, RStudio, PyCharm IDE, Microsoft Azure Cloud, Oracle 
 <br>
  
 <html><font color="black" size="5"><b>How To Reach Me</b></font></html>
