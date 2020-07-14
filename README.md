@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-➢ I'm B Tech Computer Science Engineering Graduate passed out in 2019. I'm having an extensive work experience in working with Technologies like Data Science, Machine Learning, Deep Learning and additionally i have my web developement skills.
+➢ I'm B Tech Computer Science Engineering Graduate passed out in 2019. I'm having an extensive experience in working with Technologies like Data Science, Machine Learning, Deep Learning and additionally i have my web developement skills.
 
 ➢ Data Science practitioner with a Hands-on Experience in Python, Flask, Streamlit, SQL
 <br>
