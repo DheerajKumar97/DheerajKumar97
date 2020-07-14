@@ -53,8 +53,12 @@ My SkilL Set 🔥
 <b>Exposure </b>                 : R, RStudio, PyCharm IDE, Microsoft Azure Cloud, Oracle 
 <br>
  
-<html><font color="black" size="5"><b>How To Reach Me</b></font></html>
+<br><br>
+![Alt Text](https://github.com/DheerajKumar97/DheerajKumar97/blob/master/cvr1.gif)
 
+<br><br>
+<html><font color="black" size="5"><b>How To Reach Me</b></font></html>
+<br><br>
 Linkedin         : https://www.linkedin.com/in/dheerajkumar1997/
 
 
