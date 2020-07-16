@@ -60,6 +60,6 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 <html><font color="black" size="5"><b>How To Reach Me</b></font></html>
 <br><br>
 Linkedin         : https://www.linkedin.com/in/dheerajkumar1997/
-<a href="https://www.linkedin.com/in/dheerajkumar1997/">
+<a href="https://www.linkedin.com/in/dheerajkumar1997/" height="30" width=30>
     <img src="https://github.com/DheerajKumar97/DheerajKumar97/blob/master/link.jpg" />
 </a>
