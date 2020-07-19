@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<html><font size="15" color="red"><b>DHEERAJ KUMAR K</b> </font></html>
+<html><font size="25"><b>DHEERAJ KUMAR K</b> </font></html>
 <br><br>
 ➢ I'm B Tech Computer Science Engineering Graduate passed out in 2019. I'm having an extensive experience in working with Technologies like Data Science, Machine Learning and additionally i have my web developement skills.
 
