@@ -66,9 +66,3 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 <a href="mailto:engineerdheeraj97@gmail.com? me@mysite.com&bcc=&subject=Hello%20Mr.Dheeraj Kumar K"">
     <img src="https://github.com/DheerajKumar97/DheerajKumar97/blob/master/gmail.jpg" height="30" width=30 />
 </a>
-                                                                                                 
-<a href="mailto:engineerdheeraj97@gmail.com? me@mysite.com&bcc=&subject=Hello%20Mr.Dheeraj Kumar K"">
-    <img src="https://github.com/DheerajKumar97/DheerajKumar97/blob/master/gmail.jpg" height="30" width=30 />
-</a>                                                                                                 
-                                                                                                 
-                                                                                                
