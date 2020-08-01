@@ -53,6 +53,8 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 <br>
 <b>Exposure </b>                 : R, RStudio, PyCharm IDE, Microsoft Azure Cloud, Oracle 
 <br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=DheerajKumar97&show_icons=true)
  
 <br><br>
 ![Alt Text](https://github.com/DheerajKumar97/DheerajKumar97/blob/master/res%20gif.gif)
