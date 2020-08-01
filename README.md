@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
+![Stats](https://github-readme-stats.vercel.app/api?username=DheerajKumar97&show_icons=true)
+<br>
 <html><font size="25"><b>DHEERAJ KUMAR K</b> </font></html>
 <br><br>
 ➢ I'm B Tech Computer Science Engineering Graduate passed out in 2019. I'm having an extensive experience in working with Technologies like Data Science, Machine Learning and additionally i have my web developement skills.
@@ -53,9 +55,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 <br>
 <b>Exposure </b>                 : R, RStudio, PyCharm IDE, Microsoft Azure Cloud, Oracle 
 <br>
-<br>
-![Stats](https://github-readme-stats.vercel.app/api?username=DheerajKumar97&show_icons=true)
- 
+
 <br><br>
 ![Alt Text](https://github.com/DheerajKumar97/DheerajKumar97/blob/master/res%20gif.gif)
 
