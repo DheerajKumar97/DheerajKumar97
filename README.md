@@ -37,21 +37,21 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 <b>Technology</b>               : Data Analytics, Machine Learning
 <br>
-<b>Programming</b>               : Python, SQL, SAS 
+<b>Programming</b>               : Python, SQL Server
 <br>
-<b>Packages/Frameworks </b>      : Numpy, Pandas, Scikitlearn, Statsmodels, Scipy, Imblearn, Word Cloud, Keras, NLTK
+<b>Packages/Frameworks </b>      : Numpy, Pandas, Scikitlearn, Statsmodels, Scipy, Imblearn, Word Cloud, NLTK
 <br>
 <b>Visualization Libraries</b>   : Matplotlib, Seaborn, Plotly 
 <br>
 <b>Analytical Tools </b>         : MS Excel, Tableau 
 <br>
-<b>Software / IDE</b>            : Jupyter Notebook, Spyder IDE, Sublime Text, My SQL Server, SAS Studio 
+<b>Software / IDE</b>            : Jupyter Notebook, Spyder IDE, Sublime Text, My SQL Server
 <br>
 <b>Deployment Frameworks</b>     : Flask, Streamlit 
 <br>
 <b>Cloud Platforms</b>           : Heroku Cloud Platform 
 <br>
-<b>Exposure </b>                 : R, RStudio, PyCharm IDE, Microsoft Azure Cloud, Oracle 
+<b>Exposure </b>                 : R, RStudio, PyCharm IDE, Data Structures and Algorithms,OOPs
 <br>
 
 <br><br>
