@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 <html><font size="25"><b>DHEERAJ KUMAR K</b> </font></html>
 <br><br>
-➢ I'm B Tech Computer Science Engineering Graduate passed out in 2019. I'm having an extensive experience in working with Technologies like Data Science, Machine Learning and additionally i have my web developement skills.
+➢ I'm B Tech Computer Science Engineering Graduate passed out in 2019. I'm having an <b>extensive experience in working with Technologies like Data Science, Machine Learning and additionally i have my web developement skills.</b>
 
 ➢ <b>Data Science practitioner</b> with a Hands-on Experience in <b>Python, Flask, Streamlit, SQL</b>
 <br>
