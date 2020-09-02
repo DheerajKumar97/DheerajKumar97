@@ -53,10 +53,10 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 <br>
 <b>Exposure </b>                 : R, RStudio, PyCharm IDE, Data Structures and Algorithms,OOPs
 <br>
-
+<!--
 <br><br>
 ![Alt Text](https://github.com/DheerajKumar97/DheerajKumar97/blob/master/res%20gif.gif)
-
+-->
 <br><br>
 <html><font color="black" size="5"><b>How To Reach Me</b></font></html>
 <br><br>
