@@ -20,26 +20,25 @@ Here are some ideas to get you started:
 <br><br>
 ➢ I'm B Tech Computer Science Engineering Graduate passed out in 2019. I'm having an extensive experience in working with Technologies like Data Science, Machine Learning and additionally i have my web developement skills.
 
-➢ Data Science practitioner with a Hands-on Experience in Python, Flask, Streamlit, SQL
+➢ <b>Data Science practitioner</b> with a Hands-on Experience in <b>Python, Flask, Streamlit, SQL</b>
 <br>
-➢ Experienced in developing Data Science web applications with Machine Learning using Python. Machine Learning Techniques includes Linear Regression, Logistic Regression,
-Random Forest and some Advanced Machine Learning Algorithms.
+➢ Experienced in developing <b>Data Science web applications with Machine Learning using Python</b>. Machine Learning Techniques includes <b>Linear Regression, Logistic Regression,Random Forest and some Advanced Machine Learning Algorithms.</b>
 <br>
-➢ Skilled in libraries such as Sklearn, Scipy, Numpy, Pandas, Matplotlib, Plotly, Seaborn, Imblearn, Tableau for Data Visualization and worked with SQL SERVER Database
+➢ Skilled in libraries such as <b>Sklearn, Scipy, Numpy, Pandas, Matplotlib, Plotly, Seaborn, Imblearn, Tableau for Data Visualization</b> and worked with <b>SQL SERVER Database</b>
 <br>
-➢ Additional skills are HTML & CSS, Bootstrap and basic Data Structures and algorithms.
+➢ Additional skills are <b>HTML & CSS, Bootstrap</b> and basic <b>Data Structures and algorithms.</b>
 <br>
-➢ Also Worked Independently for Deployment of Models using Heroku Cloud Platform.
+➢ Also Worked Independently for <b>Deployment of Models using Heroku Cloud Platform.</b>
 <br>
 ➢ Expertise in manipulating and analyzing complex, high-volume, high-dimensionality data.
 <br>
-➢ Proven ability and Experience of implementing python with OOPs concepts.
+➢ <b>Proven ability and Experience</b> of implementing <b>python with OOPs concepts.</b>
 <br>
-➢ Possessing an ability to be a good data storyteller.
+➢ Possessing an <b>ability to be a good data storyteller.</b>
 <br>
-➢ Team Player with good communication skills and self-motivated attitude.
+➢ <b>Team Player with good communication skills and self-motivated attitude.</b>
 <br>
-➢ Contributor to the Data Science Community.
+➢ <b>Contributor to the Data Science Community.</b>
 <br><br><br>
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
