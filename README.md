@@ -22,13 +22,24 @@ Here are some ideas to get you started:
 
 ➢ Data Science practitioner with a Hands-on Experience in Python, Flask, Streamlit, SQL
 <br>
-➢ Experienced in developing Data Science web applications with Machine Learning using Python. Machine Learning Techniques includes Linear Regression, Logistic Regression, Random Forest and some Advanced Machine Learning Algorithms.
+➢ Experienced in developing Data Science web applications with Machine Learning using Python. Machine Learning Techniques includes Linear Regression, Logistic Regression,
+Random Forest and some Advanced Machine Learning Algorithms.
 <br>
-➢ Skilled in libraries such as Sklearn, Scipy, Numpy, Pandas, Matplotlib, Plotly, Seaborn, Imblearn and Tableau for Data Visualization
+➢ Skilled in libraries such as Sklearn, Scipy, Numpy, Pandas, Matplotlib, Plotly, Seaborn, Imblearn, Tableau for Data Visualization and worked with SQL SERVER Database
 <br>
-➢ Basic knowledge of working with SQL Database
+➢ Additional skills are HTML & CSS, Bootstrap and basic Data Structures and algorithms.
 <br>
-➢ Additional skills are HTML & CSS, Bootstrap 
+➢ Also Worked Independently for Deployment of Models using Heroku Cloud Platform.
+<br>
+➢ Expertise in manipulating and analyzing complex, high-volume, high-dimensionality data.
+<br>
+➢ Proven ability and Experience of implementing python with OOPs concepts.
+<br>
+➢ Possessing an ability to be a good data storyteller.
+<br>
+➢ Team Player with good communication skills and self-motivated attitude.
+<br>
+➢ Contributor to the Data Science Community.
 <br><br><br>
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
