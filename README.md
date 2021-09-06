@@ -45,7 +45,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 <html><font size="15"><b>MY Skill Set</b> </font></html>🔥
 <br><br>
 
-<b>Technology</b>                            : Data Analytics, Machine Learning, Backend Development
+<b>𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚</b>                            : Data Analytics, Machine Learning, Backend Development
 <br>
 <b>𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝒄𝒍𝒊𝒆𝒏𝒕 𝒔𝒊𝒅𝒆)</b>            : HTML, CSS, Bootstrap
 <br>
