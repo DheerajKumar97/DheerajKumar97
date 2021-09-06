@@ -45,23 +45,27 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 <html><font size="15"><b>MY Skill Set</b> </font></html>🔥
 <br><br>
 
-<b>Technology</b>               : Data Analytics, Machine Learning
+<b>Technology</b>                            : Data Analytics, Machine Learning, Backend Development
 <br>
-<b>Programming</b>               : Python, SQL Server
+<b>𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝒄𝒍𝒊𝒆𝒏𝒕 𝒔𝒊𝒅𝒆)</b>            : HTML, CSS, Bootstrap
 <br>
-<b>Packages/Frameworks </b>      : Numpy, Pandas, Scikitlearn, Statsmodels, Scipy, Imblearn, Word Cloud, NLTK
+<b>𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝒔𝒆𝒓𝒗𝒆𝒓 𝒔𝒊𝒅𝒆)</b>           : Python, SQL Server, MySQL, Mongo DB
 <br>
-<b>Visualization Libraries</b>   : Matplotlib, Seaborn, Plotly 
+<b>𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝑴𝒐𝒅𝒆𝒍 / 𝑻𝒆𝒄𝒉𝒏𝒊𝒒𝒖𝒆) </b>   : OOP’s, ORM (SqlAlchemy)
 <br>
-<b>Analytical Tools </b>         : MS Excel, Tableau 
+<b>𝑽𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔</b>                : Matplotlib, Seaborn, Plotly 
 <br>
-<b>Software / IDE</b>            : Jupyter Notebook, Spyder IDE, Sublime Text, My SQL Server
+<b>𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒂𝒍 𝑻𝒐𝒐𝒍𝒔</b>                       : MS Excel, Tableau 
 <br>
-<b>Deployment Frameworks</b>     : Flask, Streamlit 
+<b>𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 / 𝑰𝑫𝑬</b>                        : Jupyter Notebook, PyCharm IDE, Spyder IDE, Sublime Text, My SQL Server, MONGO DB Compass
 <br>
-<b>Cloud Platforms</b>           : Heroku Cloud Platform 
+<b>𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔</b>               : FFlask, Streamlit, Django
 <br>
-<b>Exposure </b>                 : R, RStudio, PyCharm IDE, Data Structures and Algorithms,OOPs
+<b>Cloud Platforms</b>                       : Amazon Web Services (Lambda, RDS, S3 bucket), Heroku Cloud Platform 
+<br>
+<b>𝑫𝒆𝒗𝑶𝒑𝒔</b>                               : Version Control system : GIT(GitHub, Gitlab, Bitbucket), Docker  Deployment
+<br>
+<b>𝑬𝒙𝒑𝒐𝒔𝒖𝒓𝒆 </b>                             : R, RStudio, PyCharm IDE, Data Structures and Algorithms, javascript, nodejs
 <br>
 <!--
 <br><br>
