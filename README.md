@@ -4,6 +4,7 @@
 
 <img src="https://github.com/DheerajKumar97/DheerajKumar97/blob/master/TDS%20Image.png" height="400" width=300>
 
+[<img src="https://github.com/DheerajKumar97/DheerajKumar97/blob/master/TDS%20Image.png" height="400" width=300>](https://www.credly.com/badges/39cb7a53-aead-4007-af98-f068777a6fd6/public_url)
 [Tableau Certified](https://www.credly.com/badges/39cb7a53-aead-4007-af98-f068777a6fd6/public_url)
 
 <!--
