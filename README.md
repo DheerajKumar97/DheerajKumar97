@@ -49,7 +49,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 <br>
 <b>𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝒄𝒍𝒊𝒆𝒏𝒕 𝒔𝒊𝒅𝒆)</b>            : HTML, CSS, Bootstrap
 <br>
-<b>𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝒔𝒆𝒓𝒗𝒆𝒓 𝒔𝒊𝒅𝒆)</b>           : Python, SQL Server, MySQL, Mongo DB
+<b>𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝒔𝒆𝒓𝒗𝒆𝒓 𝒔𝒊𝒅𝒆)</b>           : Python, Tableau Desktop, Tableu Server, Power BI, SQL Server, MySQL
 <br>
 <b>𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝑴𝒐𝒅𝒆𝒍 / 𝑻𝒆𝒄𝒉𝒏𝒊𝒒𝒖𝒆) </b>   : OOP’s, ORM (SqlAlchemy)
 <br>
